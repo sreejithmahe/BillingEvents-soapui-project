@@ -1,0 +1,65 @@
+{
+	"invoices" : { 
+		"invoice" : [{
+			"SourceName"  			:	"BS12CUS01",
+			"SourceReference"		:	"000000001",
+			"ContractNumber" 		:	"8898688889",
+			"ContractLineNumber"	:	"(84)(3737389)",
+			"EventTypeName"			:	"EvN097_76",
+			"EventDescription"		:	"767393937",
+			"CompletionDate"		:	"2017-09-11",
+			"BillTrnsCurrency"		:	"USD",
+			"BillTransAmount"		:	17837,
+			"billingEventDFF"		:	[ { "ID"	: 17001,
+                                			"Value"	: 82379
+                              			},
+							  			{ 	"ID"	: 11001,
+                              			  	"Value"	: 82379
+                              			},
+							  			{ 	"ID"	: 15001,
+                                			"Value"	: 82379
+                              			}
+                            			] 
+		},{
+			"SourceName"  			:	"BS12CUS02",
+			"SourceReference"		:	"000000002",
+			"ContractNumber" 		:	"8898674889",
+			"ContractLineNumber"	:	"(84)(3737389)",
+			"EventTypeName"			:	"EvN097_75",
+			"EventDescription"		:	"767393937",
+			"CompletionDate"		:	"2017-11-21",
+			"BillTrnsCurrency"		:	"USD",
+			"BillTransAmount"		:	17437,
+			"billingEventDFF"		:	[ { "ID"	: 18001,
+                                			"Value"	: 82379
+                              			},
+							  			{ 	"ID"	: 14001,
+                              			  	"Value"	: 82379
+                              			},
+							  			{ 	"ID"	: 18001,
+                                			"Value"	: 82379
+                              			}
+                            			]
+		},{
+			"SourceName"  			:	"BS12CUS03",
+			"SourceReference"		:	"000000003",
+			"ContractNumber" 		:	"8898687789",
+			"ContractLineNumber"	:	"(84)(3737389)",
+			"EventTypeName"			:	"EvN097_76",
+			"EventDescription"		:	"767393937",
+			"CompletionDate"		:	"2017-05-10",
+			"BillTrnsCurrency"		:	"USD",
+			"BillTransAmount"		:	11835,
+			"billingEventDFF"		:	[ { "ID"	: 12001,
+                                			"Value"	: 83379
+                              			},
+							  			{ 	"ID"	: 15001,
+                              			  	"Value"	: 84379
+                              			},
+							  			{ 	"ID"	: 13001,
+                                			"Value"	: 12379
+                              			}
+                            			]
+		}]
+	}
+}
